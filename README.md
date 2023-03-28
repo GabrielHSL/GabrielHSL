@@ -1,7 +1,8 @@
 ### RAZGRIZ
 
-https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
+![gif]https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif
 
+![image](https://user-images.githubusercontent.com/61133674/228378646-028bd3fa-c899-483f-80aa-235dd7947c2d.png)
 
 
 <!--
