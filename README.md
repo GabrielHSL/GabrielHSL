@@ -1,4 +1,5 @@
 ### Hi there 👋
+![image](https://user-images.githubusercontent.com/61133674/228378404-75f4f235-deb8-4632-8ba7-fa3cea3766d1.png)
 
 <!--
 **GabrielHSL/GabrielHSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
