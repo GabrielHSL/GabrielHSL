@@ -5,16 +5,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=GabrielHSL.GabrielHSL) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghdsl)](https://www.linkedin.com/in/ghdsl) [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/99razgriz/)](https://www.instagram.com/99razgriz) [![Gmail Badge](https://img.shields.io/badge/-Hotmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel_henriq.1@hotmail.com)](mailto:gabriel_henriq.1@hotmail.com)
 ![gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
- <img align="right" width="323" src="https://user-images.githubusercontent.com/61133674/228566156-ba9abb4d-f3bf-4379-a863-ae30cbd717e6.gif" /><img src = 'https://media1.giphy.com/media/12W5Sg2koWYnwA/giphy.gif?cid=ecf05e47r195k616rlc7ek25su34kch9yyuzqza1pgls6xhc&rid=giphy.gif&ct=g' width='395' align='left'/> 
- <img src ='https://camo.githubusercontent.com/fccc48b6169ceac0aefe692ba3b97edd8ddcf66284362fec64c4117bbfb1c1ad/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4356744e6538346868594639752f67697068792e676966' width='294' align='center'/>
-
- 
- 
-
- 
 
 
-
+![ezgif com-optimize](https://user-images.githubusercontent.com/61133674/228579815-1095131a-46cc-4038-982c-34d608db39ac.gif)
 
 
 
