@@ -2,7 +2,13 @@
 
 ![gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=GabrielHSL.GabrielHSL) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghdsl)](https://www.linkedin.com/in/ghdsl) [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/99razgriz/)](https://www.instagram.com/99razgriz) [![Gmail Badge](https://img.shields.io/badge/-Hotmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabriel_henriq.1@hotmail.com)](mailto:gabriel_henriq.1@hotmail.com)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=GabrielHSL.GabrielHSL) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ghdsl)](https://www.linkedin.com/in/ghdsl) [![Instagram Badge](https://img.shields.io/badge/-Instagram-%23E4405F.svg?&style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/99razgriz/)](https://www.instagram.com/99razgriz) [![Gmail Badge](https://img.shields.io/badge/-Hotmail-006bed?style=flat&logo=Gmail&logoColor=white&link=mailto:gabriel_henriq.1@hotmail.com)](mailto:gabriel_henriq.1@hotmail.com) <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat&labelColor=90d90&logo=whatsapp&logoColor=white&link=https://wa.me/5519974191683"/></a>
+![DiscordBadge](https://img.shields.io/badge/Discord-Razgriz%231481-blueviolet)
+
+
+
+
 ![gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
  
 
@@ -28,17 +34,3 @@
 ![gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
-<!--
-**GabrielHSL/GabrielHSL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
