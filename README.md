@@ -29,6 +29,13 @@
 
 ![gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+CERTIFICADOS:
+
+[Diploma-Graduação-UNIP-ADS.322.322.f40c3c7fc954.pdf](https://github.com/GabrielHSL/GabrielHSL/files/12122750/Diploma-Graduacao-UNIP-ADS.322.322.f40c3c7fc954.pdf)
+
+[Certificado-4ALLTests-64ba481f915a3.pdf](https://github.com/GabrielHSL/GabrielHSL/files/12122697/Certificado-4ALLTests-64ba481f915a3.pdf)
+
+[Certificado-Coursera-UI-UX.QET9TUSNLBTA.pdf](https://github.com/GabrielHSL/GabrielHSL/files/12122740/Certificado-Coursera-UI-UX.QET9TUSNLBTA.pdf)
 
 
 ![gif](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
